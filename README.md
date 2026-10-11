@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey, I'm Ankit 👨‍💻  <br>I am an AI developer and I build AI Agents, premium UIs, and automation-first workflows.
+# Hey, I'm Ankit 👨‍💻  <br>I am an AI Engineer and I build AI Agents, premium UIs, and automation-first workflows.
 
 🔭 I’m currently working on Building AI Agents, automation workflows, <br>and intelligent web apps<br>👯 I’m looking to collaborate on AI-powered products, LLM applications, <br>and agent-based systems with fellow AI developers<br>🤝 I’m looking for help with Scaling LLM pipelines and optimizing <br>GPU-accelerated AI workloads<br>🌱 I’m currently learning LLM architecture, OPEA (Open Platform for <br>Enterprise AI), Hugging Face ecosystems, and GPU optimization <br>with NVIDIA & Intel hardware<br>💬 Ask me about Going from Data Analyst to AI Developer, building <br>AI Agents from scratch, or how to turn messy data into <br>intelligent systems<br>⚡ Fun fact: I'm not perfect, but I show up every single day and <br>learn harder than the day before 🚀
 
