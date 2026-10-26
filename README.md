@@ -4,7 +4,7 @@
 
 I benchmark LLM inference: GPUs, serving throughput, and price. When I run a benchmark, I publish the configs with it so you can rerun it and check my numbers.
 
-[![Website](https://img.shields.io/badge/datatalkwithankit.com-8B6CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://datatalkwithankit.com)
+[![Website](https://img.shields.io/badge/datatalkwithankit.com-8B6CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.datatalkwithankit.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@datatalkwithankit)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datatalkwithankit)
 
@@ -12,11 +12,11 @@ I benchmark LLM inference: GPUs, serving throughput, and price. When I run a ben
 
 - **LLM inference benchmarks**: how batch size, quantization and context length change throughput, latency and cost on vLLM.
 - **[Aurapal](https://aurapal.org)**: a career platform I design, build and run end to end.
-- **Writing** on GPUs and the AI market at [datatalkwithankit.com](https://datatalkwithankit.com).
+- **Writing** on GPUs and the AI market at [datatalkwithankit.com](https://www.datatalkwithankit.com).
 
 ### Latest writing
 
-- [H200 vs MI300X: what you're actually paying for](https://datatalkwithankit.com/posts/h200-vs-mi300x)
+- [H200 vs MI300X: what you're actually paying for](https://www.datatalkwithankit.com/posts/h200-vs-mi300x)
 
 ### Selected projects
 
