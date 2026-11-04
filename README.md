@@ -1,47 +1,45 @@
-## Hi, I'm Ankit 👋
+# Hi, I'm Ankit 👋
 
-**AI engineer. I measure what language models cost to run.**
+**AI Engineer · LLM inference & GPU benchmarking · Applied AI products**
 
-I benchmark LLM inference: GPUs, serving throughput, and price. When I run a benchmark, I publish the configs with it so you can rerun it and check my numbers.
+I work at the intersection of data, AI engineering, and practical product development. My focus is understanding how language models perform in real workloads—throughput, latency, hardware trade-offs, and cost—and turning technical ideas into useful products.
 
-[![Website](https://img.shields.io/badge/datatalkwithankit.com-8B6CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.datatalkwithankit.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@datatalkwithankit)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datatalkwithankit)
+[![Website](https://img.shields.io/badge/Website-Visit-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.datatalkwithankit.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@datatalkwithankit)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datatalkwithankit)
+[![AuraPal](https://img.shields.io/badge/AuraPal-Explore-008F94?style=for-the-badge)](https://aurapal.org)
 
-### What I'm working on
+## Featured projects
 
-- **LLM inference benchmarks**: how batch size, quantization and context length change throughput, latency and cost on vLLM.
-- **[Aurapal](https://aurapal.org)**: a career platform I design, build and run end to end.
-- **Writing** on GPUs and the AI market at [datatalkwithankit.com](https://www.datatalkwithankit.com).
+| Area | Project | What it demonstrates |
+| --- | --- | --- |
+| **AI & technical writing** | [DataTalkWithAnkit](https://github.com/Ankycritica/Datatalkwithankit) · [Live website](https://www.datatalkwithankit.com) | Writing on GPU/LLM performance, technical explainers, and a GPU sizing calculator |
+| **AI product** | [AuraPal Career Platform](https://github.com/Ankycritica/aurapalorg) · [Live app](https://aurapal.org) | Career-focused AI tools, including resume feedback, interview preparation, and career workflows |
+| **Productivity** | [Weekly Timesheet](https://github.com/Ankycritica/timesheet) · [Live app](https://timesheet-delta-seven.vercel.app/) | Editable work schedules, automated weekly calculations, and Excel exports |
+| **Client web development** | [EWG Solutions](https://github.com/Ankycritica/EWG) | Responsive site for specialized logistics and white-glove delivery |
+| **Client web development** | [HNH Handyman](https://github.com/Ankycritica/hnhHandyman) | Next.js service website with customer contact and service-area interactions |
+| **Machine learning** | [Travel Recommendation](https://github.com/Ankycritica/Travelrecommendation) | Notebook exploring a user/review-based recommendation dataset |
 
-### Latest writing
+## Explore by interest
 
-- [H200 vs MI300X: what you're actually paying for](https://www.datatalkwithankit.com/posts/h200-vs-mi300x)
+- **Machine learning & analytics:** [Student marks prediction](https://github.com/Ankycritica/Machinelearning) · [Diwali sales analysis](https://github.com/Ankycritica/Diwali_sales_analysis) · [Travel recommendation](https://github.com/Ankycritica/Travelrecommendation)
+- **Websites & product engineering:** [AuraPal](https://github.com/Ankycritica/aurapalorg) · [DataTalkWithAnkit](https://github.com/Ankycritica/Datatalkwithankit) · [EWG Solutions](https://github.com/Ankycritica/EWG) · [HNH Handyman](https://github.com/Ankycritica/hnhHandyman)
+- **Automation & utilities:** [Weekly Timesheet](https://github.com/Ankycritica/timesheet)
 
-### Selected projects
+## What I'm working on
 
-| Project | What it is | Stack |
-|---|---|---|
-| [Datatalkwithankit](https://github.com/Ankycritica/Datatalkwithankit) | My site: GPU benchmarks, writing, and a will-it-fit GPU calculator | HTML, CSS, JS, Vercel |
-| [Aurapal](https://aurapal.org) | Career platform, running in production | Full stack |
-| Automated YouTube pipeline | Generates, renders, captions and publishes videos with almost no manual steps | Python, FFmpeg, Whisper, YouTube Data API |
-| [EWG](https://github.com/Ankycritica/EWG) | Conversion-focused website for a white-glove service business | HTML, CSS, Vercel |
-| [HNH Handyman](https://github.com/Ankycritica/hnhHandyman) | Booking-focused web app for a handyman service | TypeScript |
+- **LLM inference benchmarking:** the effects of model, GPU, context, batching, and serving configurations on speed and cost.
+- **AuraPal:** building and refining a career-focused web product.
+- **Technical content:** making GPU, AI infrastructure, and data topics easier to understand on [DataTalkWithAnkit](https://www.datatalkwithankit.com).
 
-### Tools I use daily
+**Recent writing:** [H200 vs MI300X: what you're actually paying for](https://www.datatalkwithankit.com/posts/h200-vs-mi300x)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![AMD](https://img.shields.io/badge/AMD-ED1C24?style=flat-square&logo=amd&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+## Stack
+
+**AI & data:** Python · SQL · PyTorch · vLLM · Hugging Face · Power BI  
+**Product development:** TypeScript · React · Next.js · Supabase · HTML/CSS/JavaScript  
+**Tools & deployment:** Git · Docker · Vercel
 
 ---
 
-Found a number of mine that looks wrong? Open an issue on the [site repo](https://github.com/Ankycritica/Datatalkwithankit/issues) and I'll fix it.
+I value clear explanations, reproducible technical work, and products that solve real problems. If you see an issue with a published benchmark or an article, please [open an issue on the site repository](https://github.com/Ankycritica/Datatalkwithankit/issues).
