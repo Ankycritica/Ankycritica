@@ -15,7 +15,6 @@ I work at the intersection of data, AI engineering, and practical product develo
 | --- | --- | --- |
 | **AI & technical writing** | [DataTalkWithAnkit](https://github.com/Ankycritica/Datatalkwithankit) · [Live website](https://www.datatalkwithankit.com) | Writing on GPU/LLM performance, technical explainers, and a GPU sizing calculator |
 | **AI product** | [AuraPal Career Platform](https://github.com/Ankycritica/aurapalorg) · [Live app](https://aurapal.org) | Career-focused AI tools, including resume feedback, interview preparation, and career workflows |
-| **Productivity** | [Weekly Timesheet](https://github.com/Ankycritica/timesheet) · [Live app](https://timesheet-delta-seven.vercel.app/) | Editable work schedules, automated weekly calculations, and Excel exports |
 | **Client web development** | [EWG Solutions](https://github.com/Ankycritica/EWG) | Responsive site for specialized logistics and white-glove delivery |
 | **Client web development** | [HNH Handyman](https://github.com/Ankycritica/hnhHandyman) | Next.js service website with customer contact and service-area interactions |
 | **Machine learning** | [Travel Recommendation](https://github.com/Ankycritica/Travelrecommendation) | Notebook exploring a user/review-based recommendation dataset |
@@ -24,7 +23,6 @@ I work at the intersection of data, AI engineering, and practical product develo
 
 - **Machine learning & analytics:** [Student marks prediction](https://github.com/Ankycritica/Machinelearning) · [Diwali sales analysis](https://github.com/Ankycritica/Diwali_sales_analysis) · [Travel recommendation](https://github.com/Ankycritica/Travelrecommendation)
 - **Websites & product engineering:** [AuraPal](https://github.com/Ankycritica/aurapalorg) · [DataTalkWithAnkit](https://github.com/Ankycritica/Datatalkwithankit) · [EWG Solutions](https://github.com/Ankycritica/EWG) · [HNH Handyman](https://github.com/Ankycritica/hnhHandyman)
-- **Automation & utilities:** [Weekly Timesheet](https://github.com/Ankycritica/timesheet)
 
 ## What I'm working on
 
